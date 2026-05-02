@@ -1997,7 +1997,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 2"
+                "name": "Pulau Giliraja"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2146,7 +2146,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 3"
+                "name": "Pulau Giligenting"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2399,7 +2399,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 4"
+                "name": "Pulau Puteran"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2788,7 +2788,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 5"
+                "name": "Pulau Giliyang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2889,7 +2889,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 6"
+                "name": "Pulau Sapudi"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2994,7 +2994,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 7"
+                "name": "Pulau Raas"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3131,7 +3131,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 8"
+                "name": "Pulau Tonduk"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3176,7 +3176,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 9"
+                "name": "Pulau Guwa Guwa"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3217,7 +3217,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 10"
+                "name": "Pulau kemudi"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3254,7 +3254,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 11"
+                "name": "Pulau Talango"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3287,7 +3287,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 12"
+                "name": "Pulau Bulu Manuk"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3320,7 +3320,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Wilayah Baru 13"
+                "name": "Pulau Bajangan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3345,120 +3345,6 @@
                         [
                             114.43273544311525,
                             -6.961955691735156
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Wilayah Baru 14"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            114.04814958572389,
-                            -7.202353653056284
-                        ],
-                        [
-                            114.04812812805177,
-                            -7.203120033421504
-                        ],
-                        [
-                            114.0465831756592,
-                            -7.206185541925388
-                        ],
-                        [
-                            114.04588580131532,
-                            -7.206451644116059
-                        ],
-                        [
-                            114.04512405395509,
-                            -7.205387234415863
-                        ],
-                        [
-                            114.04472708702089,
-                            -7.204461195943113
-                        ],
-                        [
-                            114.04525279998781,
-                            -7.202502671562091
-                        ],
-                        [
-                            114.04579997062685,
-                            -7.201470185194509
-                        ],
-                        [
-                            114.0468192100525,
-                            -7.201118926409784
-                        ],
-                        [
-                            114.04796719551088,
-                            -7.201491473596961
-                        ],
-                        [
-                            114.04814958572389,
-                            -7.202353653056284
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Wilayah Baru 15"
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            113.72454643249513,
-                            -7.247770092661192
-                        ],
-                        [
-                            113.72536182403566,
-                            -7.248153244500109
-                        ],
-                        [
-                            113.72682094573976,
-                            -7.24900469186433
-                        ],
-                        [
-                            113.72812986373903,
-                            -7.250111571031674
-                        ],
-                        [
-                            113.72909545898439,
-                            -7.25026057378876
-                        ],
-                        [
-                            113.72894525527956,
-                            -7.2510694450385005
-                        ],
-                        [
-                            113.72761487960817,
-                            -7.251814456746282
-                        ],
-                        [
-                            113.72645616531373,
-                            -7.2517293126135
-                        ],
-                        [
-                            113.72422456741334,
-                            -7.251261019595378
-                        ],
-                        [
-                            113.72409582138062,
-                            -7.249047264190286
-                        ],
-                        [
-                            113.72454643249513,
-                            -7.247770092661192
                         ]
                     ]
                 ]
